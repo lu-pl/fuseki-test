@@ -1,6 +1,6 @@
 #!/bin/bash
 
-/docker-entrypoint.sh &
+/docker-entrypoint.sh
 
 
 echo "Waiting for Fuseki."
