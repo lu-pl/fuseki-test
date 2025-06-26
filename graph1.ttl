@@ -1,0 +1,2 @@
+@prefix ex: <http://example.org/> .
+ex:subject1 ex:predicate1 "Graph 1" .
